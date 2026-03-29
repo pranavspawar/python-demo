@@ -1,5 +1,5 @@
 a = 10
-b=20
+b=5
 if a<b :
   print("b is larger than a")
 else :
